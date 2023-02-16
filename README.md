@@ -1,7 +1,9 @@
 # My Tools and Scripts
 
-This is a collection of command-line tools and scripts that I have written to simplify various tasks. These tools are free to use and modify, under the terms of the MIT license.
-List of tools
+This is a collection of command-line tools and scripts that simplify various tasks. These tools are free to use and modify.
+
+
+## List of tools
 
 ### Scan-to-CSV
 A tool to create CSV files from the command-line, by entering row names and values.
